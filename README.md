@@ -28,8 +28,8 @@
 <h2 style="border-bottom: none; margin-bottom: 15px;">Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/AndrezaPordeus" style="text-decoration: none;"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndrezaPordeus&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=19" alt="Andreza's GitHub Stats" /></a>
-  <a href="https://github.com/AndrezaPordeus" style="text-decoration: none;"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndrezaPordeus&layout=compact&langs_count=6&title_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=19" alt="Top Languages" /></a>
+  <a href="https://github.com/andreza-ap" style="text-decoration: none;"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreza-ap&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=19" alt="Andreza's GitHub Stats" /></a>
+  <a href="https://github.com/andreza-ap" style="text-decoration: none;"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreza-ap&layout=compact&langs_count=6&title_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=19" alt="Top Languages" /></a>
 </p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
@@ -37,7 +37,7 @@
 <h2 style="border-bottom: none; margin-bottom: 15px;">Activity Pulse</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrezaPordeus&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Contributions%" alt="Andreza's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Contributions%" alt="Andreza's Activity Graph" />
 </p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
@@ -50,5 +50,5 @@
 </p>
 
 <p align="center" style="margin-top: 25px;">
-  <img src="https://komarev.com/ghpvc/?username=AndrezaPordeus-blood&label=🦇%20Blood%20Companions%20%20%20&color=B30000&style=flat" alt="Andreza's Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=andreza-ap-blood&label=🦇%20Blood%20Companions%20%20%20&color=B30000&style=flat" alt="Andreza's Profile Views" />
 </p>
