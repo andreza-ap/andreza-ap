@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=36&duration=4500&pause=2000&color=B30000&center=true&vCenter=true&width=600&lines=Greetings,%20I%20am%20Andreza;A%20Front-end%20Developer%20from%20the%20shadows;Welcome%20to%20my%20domain!&type=fade&v=6" alt="Mysterious Fade Text" />
 </p>
 
-<h2 style="border-bottom: none; margin-bottom: 15px;">About Me</h2>
+<h2 style="border-bottom: none; margin-bottom: 15px;">✦ About Me</h2>
 
 <p style="font-size: 15px; margin: 5px 0;">♰ Studying Systems Analysis and Development</p>
 <p style="font-size: 15px; margin: 5px 0;">♰ Currently mastering PHP, JavaScript, and WordPress development</p>
@@ -10,7 +10,7 @@
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
-<h2 style="border-bottom: none; margin-bottom: 15px;">Grimoire</h2>
+<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Grimoire</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-3d080a?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Node.js-3d080a?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 </p>
 
-<h2 style="border-bottom: none; margin-bottom: 15px;">Stats</h2>
+<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Stats</h2>
 
 <p align="center">
   <a href="https://github.com/andreza-ap" style="text-decoration: none;"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreza-ap&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=19" alt="Andreza's GitHub Stats" /></a>
@@ -34,7 +34,7 @@
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
-<h2 style="border-bottom: none; margin-bottom: 15px;">Activity Pulse</h2>
+<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Activity Pulse</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Contributions%" alt="Andreza's Activity Graph" />
@@ -43,6 +43,14 @@
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
 <div style="border: none; height: 1px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 40px 0;"></div>
+
+<H2>✦ Portfolio</H2>
+<p align="center">
+  <strong>Discover what has been conjured in the dark<br>
+  <strong>↓<br>
+  <a href="https://andrezapordeus.com.br/">
+<img width="80" height="80"src="https://github.com/user-attachments/assets/a9986484-e532-4596-beed-d27a68d2f35c" alt="Grimório Mágico" width="120px"/>
+<h2></h2>
 
 <p align="center" style="margin-top: 20px; font-size: 15px; color: #ffffff; letter-spacing: 0.5px;">
   <i>"I have never seen a vision, or learned a secret that could save or damn my soul."</i> <br>
