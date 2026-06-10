@@ -49,7 +49,7 @@
   <strong>Discover what has been conjured in the dark<br>
   <strong>↓<br>
   <a href="https://andrezapordeus.com.br/">
-<img width="80" height="80"src="https://github.com/user-attachments/assets/a9986484-e532-4596-beed-d27a68d2f35c" alt="Grimório Mágico" width="120px"/>
+<img src="https://github.com/user-attachments/assets/c1beb61b-24b7-4251-a720-937dcdc697ac" alt="Grimório Mágico" width="80" height="80"/>
 <h2></h2>
 
 <p align="center" style="margin-top: 20px; font-size: 15px; color: #ffffff; letter-spacing: 0.5px;">
