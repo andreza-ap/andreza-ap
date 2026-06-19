@@ -1,3 +1,4 @@
+</a>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=36&duration=4500&pause=2000&color=B30000&center=true&vCenter=true&width=600&lines=Greetings,%20I%20am%20Andreza;A%20Front-end%20Developer%20from%20the%20shadows;Welcome%20to%20my%20domain!&type=fade&v=6" alt="Mysterious Fade Text" />
 </p>
@@ -28,16 +29,23 @@
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/andreza-ap" style="text-decoration: none;"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreza-ap&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=19" alt="Andreza's GitHub Stats" /></a>
-  <a href="https://github.com/andreza-ap" style="text-decoration: none;"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreza-ap&layout=compact&langs_count=6&title_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=19" alt="Top Languages" /></a>
+ 
+<a href="https://github.com/andreza-ap" style="text-decoration: none;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreza-ap&layout=compact&langs_count=6&theme=dark&title_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" /></a>
+<a href="https://github.com/andreza-ap" style="text-decoration: none;">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreza-ap&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&animate_cards=true" alt="Andreza's GitHub Stats" />
+</a>
+   <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreza-ap&theme=dark&hide_border=true&background=0d1117&ring=B30000&fire=B30000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=B30000&sideLabels=ffffff&dates=ffffff" alt="Andreza's GitHub Streak" />
+</p>
 </p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
-<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Activity Pulse</h2>
+<h2 style="border-bottom: none; margin-bottom: 15px;"></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Contributions%" alt="Andreza's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Activity%20Pulse%" alt="Andreza's Activity Graph" />
 </p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
@@ -55,8 +63,4 @@
 <p align="center" style="margin-top: 20px; font-size: 15px; color: #ffffff; letter-spacing: 0.5px;">
   <i>"I have never seen a vision, or learned a secret that could save or damn my soul."</i> <br>
   <small style="color: #B30000; font-weight: bold; font-family: 'Pirata One', cursive; font-size: 14px;">— Armand</small>
-</p>
-
-<p align="center" style="margin-top: 25px;">
-  <img src="https://komarev.com/ghpvc/?username=andreza-ap-blood&label=🦇%20Blood%20Companions%20%20%20&color=B30000&style=flat" alt="Andreza's Profile Views" />
 </p>
