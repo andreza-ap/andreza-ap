@@ -11,9 +11,12 @@
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
+<br>
+
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Grimoire</h2>
 
 <p align="left">
+  <br>
   <img src="https://img.shields.io/badge/HTML5-3d080a?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-3d080a?style=flat&logo=simple-icons&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-3d080a?style=flat&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
@@ -25,6 +28,8 @@
   <img src="https://img.shields.io/badge/Docker-3d080a?style=flat&logo=docker&logoColor=339933" alt="Docker" />
   <img src="https://img.shields.io/badge/Node.js-3d080a?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 </p>
+
+<br>
 
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Stats</h2>
 
@@ -52,6 +57,8 @@
 
 <div style="border: none; height: 1px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 40px 0;"></div>
 
+<br>
+
 <H2>✦ Portfolio</H2>
 <p align="center">
   <strong>Discover what has been conjured in the dark<br>
@@ -63,4 +70,7 @@
 <p align="center" style="margin-top: 20px; font-size: 15px; color: #ffffff; letter-spacing: 0.5px;">
   <i>"I have never seen a vision, or learned a secret that could save or damn my soul."</i> <br>
   <small style="color: #B30000; font-weight: bold; font-family: 'Pirata One', cursive; font-size: 14px;">— Armand</small>
+</p>
+<p align="center" style="margin-top: 25px;">
+  <img src="https://komarev.com/ghpvc/?username=AndrezaPordeus-vamp&label=🦇%20Blood%20Companions%20%20%20&color=B30000&style=flat" alt="Andreza's Profile Views" />
 </p>
