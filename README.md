@@ -15,8 +15,6 @@
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
-<br>
-
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Tech Grimoire</h2>
 
 <p align="left">
@@ -33,7 +31,34 @@
   <img src="https://img.shields.io/badge/Node.js-3d080a?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 </p>
 
-<br>
+<H2>✦ Crafted Projects</H2>
+
+<p align="center">
+  <a href="https://github.com/andreza-ap/meu-portfolio-wp">
+    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=meu-portfolio-wp&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
+  </a>
+  <a href="https://github.com/andreza-ap/wow-petdex">
+    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=wow-petdex&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/andreza-ap/memeteca-br">
+    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=memeteca-br&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
+  </a>
+  <a href="https://github.com/andreza-ap/fokus">
+    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=fokus&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
+  </a>
+</p>
+
+<br> 
+
+<p align="center">
+  <strong>Discover what has been conjured in the dark<br>
+  <strong>↓<br>
+  <a href="https://andrezapordeus.com.br/">
+<img src="https://github.com/user-attachments/assets/c1beb61b-24b7-4251-a720-937dcdc697ac" alt="Grimório Mágico" width="80" height="80"/>
+<h2>
 
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Stats</h2>
 
@@ -70,34 +95,6 @@
 
 <br>
 
-<H2>✦ Portfolio</H2>
-
-<p align="center">
-  <a href="https://github.com/andreza-ap/meu-portfolio-wp">
-    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=meu-portfolio-wp&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
-  </a>
-  <a href="https://github.com/andreza-ap/wow-petdex">
-    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=wow-petdex&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/andreza-ap/memeteca-br">
-    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=memeteca-br&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
-  </a>
-  <a href="https://github.com/andreza-ap/fokus">
-    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=fokus&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
-  </a>
-</p>
-
-<br> 
-
-<p align="center">
-  <strong>Discover what has been conjured in the dark<br>
-  <strong>↓<br>
-  <a href="https://andrezapordeus.com.br/">
-<img src="https://github.com/user-attachments/assets/c1beb61b-24b7-4251-a720-937dcdc697ac" alt="Grimório Mágico" width="80" height="80"/>
-<h2></h2>
 
 <p align="center" style="margin-top: 20px; font-size: 15px; color: #ffffff; letter-spacing: 0.5px;">
   <i>"I have never seen a vision, or learned a secret that could save or damn my soul."</i> <br>
