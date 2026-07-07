@@ -1,7 +1,7 @@
 <p align="center">
-  🇺🇸 <a href="README.md">English</a> | 🇧🇷 <a href="README.pt-BR.md">Português</a>
+  <a href="README.md">🇺🇸</a> ✦ <a href="README.pt-BR.md">🇧🇷</a> 
 </p>
-</a>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=36&duration=4500&pause=2000&color=B30000&center=true&vCenter=true&width=600&lines=Greetings,%20I%20am%20Andreza;A%20Web%20Developer%20from%20the%20shadows;Welcome%20to%20my%20domain!&type=fade&v=6" alt="Mysterious Fade Text" />
 </p>
