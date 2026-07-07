@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="right">
   <a href="README.md">🇺🇸</a> ✦ <a href="README.pt-BR.md">🇧🇷</a>
 </p>
 
