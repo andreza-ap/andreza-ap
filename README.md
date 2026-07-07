@@ -1,5 +1,5 @@
 
-<p align="right">
+<p align="left">
   <a href="README.md">🇺🇸</a> ✦ <a href="README.pt-BR.md">🇧🇷</a> 
 </p>
 
@@ -58,7 +58,6 @@
   <strong>↓<br>
   <a href="https://andrezapordeus.com.br/">
 <img src="https://github.com/user-attachments/assets/c1beb61b-24b7-4251-a720-937dcdc697ac" alt="Grimório Mágico" width="80" height="80"/>
-<h2>
 
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Stats</h2>
 
