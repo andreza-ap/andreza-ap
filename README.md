@@ -34,11 +34,18 @@
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Stats</h2>
 
 <p align="center">
- 
 <a href="https://github.com/andreza-ap" style="text-decoration: none;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreza-ap&layout=compact&langs_count=6&theme=dark&title_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" /></a>
+  <img
+    height="160em"
+    src="https://github-readme-stats-azure-iota-46.vercel.app/api/top-langs?username=andreza-ap&layout=compact&langs_count=6&theme=dark&title_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true"
+    alt="Top Languages" />
+</a>
+
 <a href="https://github.com/andreza-ap" style="text-decoration: none;">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreza-ap&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&animate_cards=true" alt="Andreza's GitHub Stats" />
+  <img
+    height="160em"
+    src="https://github-readme-stats-azure-iota-46.vercel.app/api?username=andreza-ap&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&animate_cards=true"
+    alt="Andreza's GitHub Stats" />
 </a>
    <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreza-ap&theme=dark&hide_border=true&background=0d1117&ring=B30000&fire=B30000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=B30000&sideLabels=ffffff&dates=ffffff" alt="Andreza's GitHub Streak" />
