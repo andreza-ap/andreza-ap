@@ -1,5 +1,6 @@
+
 <p align="center">
-  🇺🇸 <a href="README.md">English</a> | 🇧🇷 Português
+  <a href="README.md">🇺🇸</a> ✦ <a href="README.pt-BR.md">🇧🇷</a>
 </p>
 
 <p align="center">
@@ -94,7 +95,7 @@
 <br>
 
 <p align="center">
-  <strong>Descubra o que foi conjurado nas sombras<br>
+  <strong>Abra o Grimório e descubra meus projetos<br>
   ↓<br>
   <a href="https://andrezapordeus.com.br/">
     <img src="https://github.com/user-attachments/assets/c1beb61b-24b7-4251-a720-937dcdc697ac" alt="Grimório Mágico" width="80" height="80"/>
