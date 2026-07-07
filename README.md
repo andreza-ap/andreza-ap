@@ -1,3 +1,4 @@
+
 <p align="right">
   <a href="README.md">🇺🇸</a> ✦ <a href="README.pt-BR.md">🇧🇷</a> 
 </p>
@@ -8,15 +9,15 @@
 
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ About Me</h2>
 
-<p style="font-size: 15px; margin: 5px 0;">♰ Studying Systems Analysis and Development</p>
-<p style="font-size: 15px; margin: 5px 0;">♰ Currently mastering PHP, JavaScript, and WordPress development</p>
-<p style="font-size: 15px; margin: 5px 0;">♰ Focused on creating modern, responsive, and optimized web interfaces</p>
+<p style="font-size: 15px; margin: 5px 0;">☽ Studying Systems Analysis and Development</p>
+<p style="font-size: 15px; margin: 5px 0;">☽ Currently mastering PHP, JavaScript, and WordPress development</p>
+<p style="font-size: 15px; margin: 5px 0;">☽ Focused on creating modern, responsive, and optimized web interfaces</p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
 <br>
 
-<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Grimoire</h2>
+<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Tech Grimoire</h2>
 
 <p align="left">
   <br>
