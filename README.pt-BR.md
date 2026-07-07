@@ -9,15 +9,15 @@
 
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Sobre Mim</h2>
 
-<p style="font-size: 15px; margin: 5px 0;">♰ Estudando Análise e Desenvolvimento de Sistemas</p>
-<p style="font-size: 15px; margin: 5px 0;">♰ Atualmente aprimorando meus conhecimentos em PHP, JavaScript e desenvolvimento com WordPress</p>
-<p style="font-size: 15px; margin: 5px 0;">♰ Focada em criar interfaces web modernas, responsivas e otimizadas</p>
+<p style="font-size: 15px; margin: 5px 0;">☽ Estudando Análise e Desenvolvimento de Sistemas</p>
+<p style="font-size: 15px; margin: 5px 0;">☽ Atualmente aprimorando meus conhecimentos em PHP, JavaScript e desenvolvimento com WordPress</p>
+<p style="font-size: 15px; margin: 5px 0;">☽ Focada em criar interfaces web modernas, responsivas e otimizadas</p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
 <br>
 
-<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Grimório</h2>
+<h2 style="border-bottom: none; margin-bottom: 15px;">✦ Grimório Técnico </h2>
 
 <p align="left">
   <br>
@@ -41,14 +41,14 @@
 <p align="center">
 <a href="https://github.com/andreza-ap" style="text-decoration: none;">
   <img
-    height="160em"
+    height="180em"
     src="https://github-readme-stats-azure-iota-46.vercel.app/api/top-langs?username=andreza-ap&layout=compact&langs_count=6&theme=dark&title_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true"
     alt="Principais Linguagens" />
 </a>
 
 <a href="https://github.com/andreza-ap" style="text-decoration: none;">
   <img
-    height="160em"
+    height="180em"
     src="https://github-readme-stats-azure-iota-46.vercel.app/api?username=andreza-ap&show_icons=true&title_color=B30000&icon_color=B30000&text_color=ffffff&bg_color=0d1117&hide_border=true&animate_cards=true"
     alt="Estatísticas do GitHub da Andreza" />
 </a>
@@ -63,7 +63,7 @@
 <h2 style="border-bottom: none; margin-bottom: 15px;"></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Activity%20Pulse%" alt="Gráfico de atividades da Andreza" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Puslo%20de%20Atividade%" alt="Gráfico de atividades da Andreza" />
 </p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
