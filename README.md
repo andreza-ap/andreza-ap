@@ -1,4 +1,3 @@
-
 <p align="left">
   <a href="README.md">🇺🇸</a> ✦ <a href="README.pt-BR.md">🇧🇷</a> 
 </p>
