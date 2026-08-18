@@ -33,9 +33,6 @@
 <H2>✦ Crafted Projects</H2>
 
 <p align="center">
-  <a href="https://github.com/andreza-ap/meu-portfolio-wp">
-    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=meu-portfolio-wp&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
-  </a>
   <a href="https://github.com/andreza-ap/wow-petdex">
     <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=wow-petdex&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
   </a>
