@@ -32,22 +32,23 @@
 
 <H2>✦ Crafted Projects</H2>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/andreza-ap/wow-petdex">
     <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=wow-petdex&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
   </a>
-</p>
+</p> 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/andreza-ap/memeteca-br">
     <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=memeteca-br&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/andreza-ap/fokus">
     <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=fokus&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
   </a>
 </p>
-
-<br> 
 
 <p align="center">
   <strong>Discover what has been conjured in the dark<br>
