@@ -35,24 +35,26 @@
 <h2>✦ Projetos Criados</h2>
 
 <p align="center">
-  <a href="https://github.com/andreza-ap/meu-portfolio-wp">
-    <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=meu-portfolio-wp&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
-  </a>
-
   <a href="https://github.com/andreza-ap/wow-petdex">
     <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=wow-petdex&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/andreza-ap/memeteca-br">
     <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=memeteca-br&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
   </a>
 
+  </p>
+<p align="center">
   <a href="https://github.com/andreza-ap/fokus">
     <img src="https://github-readme-stats-azure-iota-46.vercel.app/api/pin/?username=andreza-ap&repo=fokus&bg_color=0d1117&title_color=B30000&text_color=ffffff&icon_color=B30000&hide_border=true" />
   </a>
 </p>
+
+<p align="center">
+  <strong>Conheça minhas conjurações<br>
+  <strong>↓<br>
+  <a href="https://andrezapordeus.com.br/">
+<img src="https://github.com/user-attachments/assets/c1beb61b-24b7-4251-a720-937dcdc697ac" alt="Grimório Mágico" width="80" height="80"/>
 
 <br>
 
