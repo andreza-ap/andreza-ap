@@ -71,17 +71,13 @@
     alt="Andreza's GitHub Stats" />
 </a>
    <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreza-ap&theme=dark&hide_border=true&background=0d1117&ring=B30000&fire=B30000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=B30000&sideLabels=ffffff&dates=ffffff" alt="Andreza's GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/andreza-ap/andreza-ap/output/activity-graph.svg" alt="Andreza's Activity Graph" />
 </p>
 </p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
 <h2 style="border-bottom: none; margin-bottom: 15px;"></h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Activity%20Pulse%" alt="Andreza's Activity Graph" />
-</p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
 
