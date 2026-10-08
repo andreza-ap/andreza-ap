@@ -88,7 +88,7 @@
 <h2 style="border-bottom: none; margin-bottom: 15px;">✦ Pulso de Atividade</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreza-ap&bg_color=0d1117&color=ffffff&line=B30000&point=B30000&area=true&area_color=3d080a&hide_border=true&custom_title=Pulso%20de%20Atividade" alt="Gráfico de atividades da Andreza" />
+  <img src="https://raw.githubusercontent.com/andreza-ap/andreza-ap/output/activity-graph.svg" alt="Andreza's Activity Graph" />
 </p>
 
 <div style="border: none; height: 2px; background: linear-gradient(to right, transparent, #B30000, transparent); margin: 30px 0;"></div>
